@@ -7,8 +7,7 @@ class String
      true 
    else 
      false
-     binding.pry
-  end
+    end
   end
   def question?
     if self.end_with?("?")
