@@ -7,9 +7,9 @@ class String
      true 
    else 
      false
+     binding.pry
   end
   end
-binding.pry 
   def question?
 
   end
